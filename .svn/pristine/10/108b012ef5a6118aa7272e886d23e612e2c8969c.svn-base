@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.vov.vitamio.demo.test">
+
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="19" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="io.vov.vitamio.demo"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for io.vov.vitamio.demo"/>
+</manifest>

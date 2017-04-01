@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="vitamio_demo_name">VitamioDemo</string>
+	<string name="local_video">Play Video from Local File</string>
+	<string name="local_video_setsurface">Play Video use setSurface</string>
+    <string name="stream_video">Play Streaming Video</string>
+    <string name="local_audio">Play Audio from Local File</string>
+    <string name="res_audio">Play Audio from Resources</string>
+    <string name="title_activity_video_subtitle_demo">VideoSubtitleDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="subtitle1">MediaPlayer  Subtitles</string>
+    <string name="subtitle12">VideoView Subtitles</string>
+    <string name="title_activity_media_player_subtitle">MediaPlayerSubtitle</string>
+    <string name="title_activity_video_view_subtitle">VideoViewSubtitle</string>
+    <string name="title_activity_video_subtitle_list">VideoSubtitleList</string>
+    <string name="title_activity_video_buffer">VideoViewBuffer</string>
+    <string name="openvideo1">Open Video1</string>
+    <string name="openvideo2">Open Video2</string>
+</resources>

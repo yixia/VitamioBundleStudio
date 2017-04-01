@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="1478600492644181000"
+    token="-6681648135085569104" >
+
+    <task
+        name="javac"
+        duration="296" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="462" />
+    <task
+        name="verifier"
+        duration="48" />
+
+    <artifact
+        location="/Users/wanglizheng/demo/luojisiwei/1108/AndroidStudio-VitamioBundle/vitamio-sample/build/outputs/apk/vitamio-sample-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1478600492644181000" >
+        <artifact
+            location="/Users/wanglizheng/demo/luojisiwei/1108/AndroidStudio-VitamioBundle/vitamio-sample/build/outputs/apk/vitamio-sample-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

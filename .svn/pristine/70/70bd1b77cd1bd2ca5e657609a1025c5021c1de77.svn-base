@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wanglizheng/demo/luojisiwei/1108/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="fbea2f137f8aca36a3291a26b65ca11dd050837a">
+        <dex dex="/Users/wanglizheng/demo/luojisiwei/1108/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1eb13789437beae726106ddf8bc5bb19d0d30e3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wanglizheng/demo/luojisiwei/1108/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="ead4da5d1f0960bc8196724d198541a65808f652">
+        <dex dex="/Users/wanglizheng/demo/luojisiwei/1108/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8dbd72db9bda7c252380fef8a2aaaf6fbbdc36d1/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="a7be33597f08c7d37baae529fafd1dba5d258e98">
+        <dex dex="/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/pre-dexed/debug/instant-run-bootstrap_0e9efa66bd7f1b29366584554cd976a7aa047b5c.jar" />
+    </item>
+    <item
+        jar="/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="d922813ff4cf295bb346c594d085cde3d93fc26a">
+        <dex dex="/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/pre-dexed/debug/instant-run_9867a6860a20a84505abab8ee8cd1e263dcbef37.jar" />
+    </item>
+
+</items>

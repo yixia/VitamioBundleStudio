@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio/build/intermediates/res/merged/androidTest/debug/drawable/scrubber_progress_horizontal_holo_dark.xml",
+        "source": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio/build/intermediates/bundles/debug/res/drawable/scrubber_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio/build/intermediates/res/merged/androidTest/debug/drawable/mediacontroller_button.xml",
+        "source": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio/build/intermediates/bundles/debug/res/drawable/mediacontroller_button.xml"
+    },
+    {
+        "merged": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio/build/intermediates/res/merged/androidTest/debug/drawable/scrubber_control_selector_holo.xml",
+        "source": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio/build/intermediates/bundles/debug/res/drawable/scrubber_control_selector_holo.xml"
+    }
+]

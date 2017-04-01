@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/res/merged/debug/layout/mediaplayer_3.xml",
+        "source": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/res/layout/mediaplayer_3.xml"
+    },
+    {
+        "merged": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/res/merged/debug/layout/mediaplayer_1.xml",
+        "source": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/res/layout/mediaplayer_1.xml"
+    },
+    {
+        "merged": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/res/merged/debug/layout/videoview.xml",
+        "source": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/res/layout/videoview.xml"
+    },
+    {
+        "merged": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/res/merged/debug/layout/mediaplayer_2.xml",
+        "source": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/res/layout/mediaplayer_2.xml"
+    },
+    {
+        "merged": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/res/merged/debug/layout/subtitle1.xml",
+        "source": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/res/layout/subtitle1.xml"
+    },
+    {
+        "merged": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/res/merged/debug/layout/videobuffer.xml",
+        "source": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/res/layout/videobuffer.xml"
+    },
+    {
+        "merged": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/res/merged/debug/layout/subtitle2.xml",
+        "source": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/res/layout/subtitle2.xml"
+    },
+    {
+        "merged": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/res/merged/debug/layout/media_metadata.xml",
+        "source": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/res/layout/media_metadata.xml"
+    },
+    {
+        "merged": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/res/merged/debug/layout/mediacontroller.xml",
+        "source": "/work/vitamio-demo/as-523-vitamio-offical/AndroidStudio-VitamioBundle/vitamio-sample/build/intermediates/exploded-aar/io.vov.vitamio/vitamio/4.2.0-SNAPSHOT/res/layout/mediacontroller.xml"
+    }
+]
